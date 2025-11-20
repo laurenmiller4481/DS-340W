@@ -28,17 +28,7 @@ In the folder entitled "parent_paper_fixed", we have the two subfolders of "pare
 We recommend running this notebook in a google colab environment.
 
 1. Upload all files contained within parent_paper_fixed_data to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it is named "reviews_with_prod_label.csv".
-2. Open the terminal and enter the following commands.
-```
-pip install pandas
-pip install matplotlib
-pip install numpy
-pip install scipy
-pip install scikit-learn
-pip install networkx
-pip install xgboost
-```
-3. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes. 
+2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes. 
 
 # parent_paper_innovation -- Our innovation
 In the folder entitled "parent_paper_innovation_data", we have the two subfolders of "parent_paper_innovation_code" and "parent_paper_innovation_data". Under "parent_paper_innovation_code", we have the code in which we modified the "parent_paper_fixed_code" in order to marginally improve performance. Under "parent_paper_innovation_data", we have put all of the data necessary to run the code in "parent_paper_innovation_code".
@@ -47,19 +37,7 @@ In the folder entitled "parent_paper_innovation_data", we have the two subfolder
 
 We recommend running this notebook in a google colab environment. 
 1. Upload all files contained within parent_paper_innovation to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it  is named "reviews_with_prod_label.csv"
-2. Open the terminal and enter the following commands
-```
-pip install pandas
-pip install matplotlib
-pip install numpy
-pip install nltk
-pip install gensim
-pip install scikit-learn
-pip install networkx
-pip install xgboost
-pip install scipy
-```
-3. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
+2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
 
 # parent_paper_innovation_supplementary - Our innovation
 In the folder entitled "parent_paper_innovation_supplementary", we have the two subfolders of "parent_paper_supplementary_code" and "parent_paper_supplementary_data". Under "parent_paper_supplementary_code", we have the code which utilized the same methodology as "parent_paper_innovation_code" but with a dataset of electronic reviews from Amazon. Under "parent_paper_supplementary_data", we have put all of the data necessary to run the code in "parent_paper_supplementary_code". 
@@ -68,18 +46,6 @@ In the folder entitled "parent_paper_innovation_supplementary", we have the two 
 
 We recommend running this notebook in a google colab environment.
 1. Upload all files contained within parent_paper_supplementary_data to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it is named "electronics_with_prod_label.csv"
-2.  Open the terminal and enter the following commands.
-```
-pip install pandas
-pip install matplotlib
-pip install numpy
-pip install nltk
-pip install gensim
-pip install scikit-learn
-pip install networkx
-pip install xgboost
-pip install scipy
-```
-3. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
+2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
 
 
