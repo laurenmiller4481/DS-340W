@@ -31,7 +31,7 @@ We recommend running this notebook in a google colab environment.
 2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes. 
 
 # parent_paper_innovation -- Our innovation
-In the folder entitled "parent_paper_innovation_data", we have the two subfolders of "parent_paper_innovation_code" and "parent_paper_innovation_data". Under "parent_paper_innovation_code", we have the code in which we modified the "parent_paper_fixed_code" in order to marginally improve performance. Under "parent_paper_innovation_data", we have put all of the data necessary to run the code in "parent_paper_innovation_code".
+In the folder entitled "parent_paper_innovation_data", we have the two subfolders of "parent_paper_innovation_code" and "parent_paper_innovation_data". Under "parent_paper_innovation_code", we have the code in which we modified the "parent_paper_fixed_code". Under "parent_paper_innovation_data", we have put all of the data necessary to run the code in "parent_paper_innovation_code".
 
 ## Steps to running parent_paper_innovation
 
