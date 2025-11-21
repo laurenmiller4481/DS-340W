@@ -27,7 +27,7 @@ In the folder entitled "parent_paper_fixed", we have the two subfolders of "pare
 
 We recommend running this notebook in a google colab environment.
 
-1. Upload all files contained within parent_paper_fixed_data to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it is named "reviews_with_prod_label.csv".
+1. Upload all files contained within parent_paper_fixed_data to the colab environment. This can be done by clicking the files tab and clicking the upload button.
 2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes. 
 
 # parent_paper_innovation -- Our innovation
@@ -36,7 +36,7 @@ In the folder entitled "parent_paper_innovation_data", we have the two subfolder
 ## Steps to running parent_paper_innovation
 
 We recommend running this notebook in a google colab environment. 
-1. Upload all files contained within parent_paper_innovation to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it  is named "reviews_with_prod_label.csv"
+1. Upload all files contained within parent_paper_innovation to the colab environment. This can be done by clicking the files tab and clicking the upload button.
 2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
 
 # parent_paper_innovation_supplementary - Our innovation
@@ -45,7 +45,7 @@ In the folder entitled "parent_paper_innovation_supplementary", we have the two 
 ## Steps to running parent_paper_innovation_supplementary
 
 We recommend running this notebook in a google colab environment.
-1. Upload all files contained within parent_paper_supplementary_data to the colab environment. This can be done by clicking the files tab and clicking the upload button. Rename the dataset so it is named "electronics_with_prod_label.csv"
+1. Upload all files contained within parent_paper_supplementary_data to the colab environment. This can be done by clicking the files tab and clicking the upload button.
 2. Run each block of code in sequential order. There are thorough comments in the jupyter notebook detailing what each step accomplishes.
 
 
