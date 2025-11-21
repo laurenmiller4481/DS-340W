@@ -1,7 +1,7 @@
 # Connected Lies: Using Network-Informed Ensembles to Identify Sellers that Buy Fake Reviews
 ## By: Maya Nagiub and Lauren Miller
 
-This project focuses on using supervised machine learning to identify sellers that buy fake reviews by utilizing ensemble models of network features, product level metadata features, and review text features on reviews from Amazon's home and kitchen section.
+This project focuses on using supervised machine learning to identify sellers that buy fake reviews by utilizing ensemble models of network features, product level metadata features, and review text features on reviews from Amazon's home and kitchen category.
 
 Sellers that buy fake reviews are defined as the sellers of products who buy favorable reviews in order to artificially boost their reputation on Amazon. This can be accomplished by posting a review request in one of the many fake review writing groups on platforms like Instagram and Facebook.
 
